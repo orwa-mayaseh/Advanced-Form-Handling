@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://orwa-mayaseh.github.io/dynamic-form-builder",
+  "homepage": "https://github.com/orwa-mayaseh/Advanced-Form-Handling",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
